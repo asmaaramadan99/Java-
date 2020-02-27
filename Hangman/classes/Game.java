@@ -45,7 +45,7 @@ class Game implements IHangman {
 			}
 		}
 		
-		if(flag==0 & c!=null)
+		if(flag==0 && c!=null)
 		{   trials++;
 			
 		}
